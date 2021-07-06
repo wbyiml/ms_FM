@@ -3,11 +3,11 @@
 ## 利用MindSpore实现广告推荐网络FM(Factorization Machine)
 
 数据集criteo存放在 datas/set下：<br />
-  FM <br />
-  --datas <br />
-    --set <br />
-      --train.txt <br />
-      --test.txt <br />
+FM <br />
+——datas <br />
+————set <br />
+——————train.txt <br />
+——————test.txt <br />
       
 datas/makeDataset.py 可用于将train.txt中抽取部分数据作为训练集和验证集<br /><br />
 
