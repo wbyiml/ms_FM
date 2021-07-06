@@ -8,6 +8,7 @@ FM <br />
 ————set <br />
 ——————train.txt <br />
 ——————test.txt <br />
+————makeDataset.py
       
 datas/makeDataset.py 可用于将train.txt中抽取部分数据作为训练集和验证集<br /><br />
 
